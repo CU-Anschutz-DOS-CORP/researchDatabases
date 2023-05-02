@@ -44,5 +44,5 @@ No
 No
 
 ## Special Notes
-* Replaced by the PLACES Project on Dec. 2020
+* Replaced by the [PLACES Project](https://cu-anschutz-dos-corp.github.io/researchDatabases/places-local-data-for-better-health.html) on Dec. 2020
 
