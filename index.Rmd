@@ -5,10 +5,8 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
-# url: your book url like https://bookdown.org/yihui/bookdown
-# cover-image: path to the social sharing image like images/cover.jpg
-description: |
-  A short description here.
+url: https://cu-anschutz-dos-corp.github.io/researchDatabases/
+description: List of several public-use databases
 link-citations: yes
 github-repo: rstudio/bookdown-demo
 ---
@@ -18,6 +16,3 @@ github-repo: rstudio/bookdown-demo
 # About {-}
 
 This website has a list of several public-use databases that can be used in research studies. Most of these resources are freely available online. Some will require a study proposal and/or data use agreement be submitted and evaluated.
-
-
-<!-- <img src="./assets/logo.png" style="position:absolute;top:0px;right:0px;" /> -->

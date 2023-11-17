@@ -206,7 +206,7 @@ cost-15
 proposal-or-application-required-15
 dua-required-15
 special-notes-15
-common-core-of-data-americas-public-schools
+colorado-all-payer-claims-database-co-apcd
 organization-16
 website-16
 description-16
@@ -219,7 +219,7 @@ cost-16
 proposal-or-application-required-16
 dua-required-16
 special-notes-16
-community-resilience-estimates-cre
+common-core-of-data-americas-public-schools
 organization-17
 website-17
 description-17
@@ -232,7 +232,7 @@ cost-17
 proposal-or-application-required-17
 dua-required-17
 special-notes-17
-consumer-expenditure-survey-ce
+community-resilience-estimates-cre
 organization-18
 website-18
 description-18
@@ -245,7 +245,7 @@ cost-18
 proposal-or-application-required-18
 dua-required-18
 special-notes-18
-county-health-rankings-and-roadmaps
+consumer-expenditure-survey-ce
 organization-19
 website-19
 description-19
@@ -258,7 +258,7 @@ cost-19
 proposal-or-application-required-19
 dua-required-19
 special-notes-19
-covid-19-community-vulnerability-index-ccvi
+county-health-rankings-and-roadmaps
 organization-20
 website-20
 description-20
@@ -271,7 +271,7 @@ cost-20
 proposal-or-application-required-20
 dua-required-20
 special-notes-20
-current-population-survey-cps
+covid-19-community-vulnerability-index-ccvi
 organization-21
 website-21
 description-21
@@ -284,7 +284,7 @@ cost-21
 proposal-or-application-required-21
 dua-required-21
 special-notes-21
-distressed-communities-index-dci
+current-population-survey-cps
 organization-22
 website-22
 description-22
@@ -297,7 +297,7 @@ cost-22
 proposal-or-application-required-22
 dua-required-22
 special-notes-22
-drug-abuse-warning-network-dawn
+distressed-communities-index-dci
 organization-23
 website-23
 description-23
@@ -310,7 +310,7 @@ cost-23
 proposal-or-application-required-23
 dua-required-23
 special-notes-23
-fda-aderse-event-reporting-system-faers
+drug-abuse-warning-network-dawn
 organization-24
 website-24
 description-24
@@ -323,7 +323,7 @@ cost-24
 proposal-or-application-required-24
 dua-required-24
 special-notes-24
-food-access-research-atlas
+fda-aderse-event-reporting-system-faers
 organization-25
 website-25
 description-25
@@ -336,7 +336,7 @@ cost-25
 proposal-or-application-required-25
 dua-required-25
 special-notes-25
-food-environment-atlas
+food-access-research-atlas
 organization-26
 website-26
 description-26
@@ -349,7 +349,7 @@ cost-26
 proposal-or-application-required-26
 dua-required-26
 special-notes-26
-general-social-survey-gss
+food-environment-atlas
 organization-27
 website-27
 description-27
@@ -362,7 +362,7 @@ cost-27
 proposal-or-application-required-27
 dua-required-27
 special-notes-27
-global-health-data-exchange-ghdx
+general-social-survey-gss
 organization-28
 website-28
 description-28
@@ -375,7 +375,7 @@ cost-28
 proposal-or-application-required-28
 dua-required-28
 special-notes-28
-health-and-retirement-study-hrs
+global-health-data-exchange-ghdx
 organization-29
 website-29
 description-29
@@ -388,7 +388,7 @@ cost-29
 proposal-or-application-required-29
 dua-required-29
 special-notes-29
-health-data-compass
+health-and-retirement-study-hrs
 organization-30
 website-30
 description-30
@@ -401,7 +401,7 @@ cost-30
 proposal-or-application-required-30
 dua-required-30
 special-notes-30
-health-information-national-trends-survey-hints
+health-data-compass
 organization-31
 website-31
 description-31
@@ -414,7 +414,7 @@ cost-31
 proposal-or-application-required-31
 dua-required-31
 special-notes-31
-hospital-compare
+health-information-national-trends-survey-hints
 organization-32
 website-32
 description-32
@@ -427,7 +427,7 @@ cost-32
 proposal-or-application-required-32
 dua-required-32
 special-notes-32
-integrated-postsecondary-education-data-system-ipeds
+hospital-compare
 organization-33
 website-33
 description-33
@@ -440,7 +440,7 @@ cost-33
 proposal-or-application-required-33
 dua-required-33
 special-notes-33
-ipums
+integrated-postsecondary-education-data-system-ipeds
 organization-34
 website-34
 description-34
@@ -453,7 +453,7 @@ cost-34
 proposal-or-application-required-34
 dua-required-34
 special-notes-34
-kids-inpatient-database-kid
+ipums
 organization-35
 website-35
 description-35
@@ -466,7 +466,7 @@ cost-35
 proposal-or-application-required-35
 dua-required-35
 special-notes-35
-medical-expenditure-panel-survey-meps
+kids-inpatient-database-kid
 organization-36
 website-36
 description-36
@@ -479,7 +479,7 @@ cost-36
 proposal-or-application-required-36
 dua-required-36
 special-notes-36
-medicare-current-beneficiary-survey-mcbs
+medical-expenditure-panel-survey-meps
 organization-37
 website-37
 description-37
@@ -492,7 +492,7 @@ cost-37
 proposal-or-application-required-37
 dua-required-37
 special-notes-37
-medicare-fee-for-service-parts-a-and-b-medpar
+medicare-current-beneficiary-survey-mcbs
 organization-38
 website-38
 description-38
@@ -505,7 +505,7 @@ cost-38
 proposal-or-application-required-38
 dua-required-38
 special-notes-38
-metabolic-and-bariatric-surgery-accreditation-and-quality-improvement-program-mbsa-qip
+medicare-fee-for-service-parts-a-and-b-medpar
 organization-39
 website-39
 description-39
@@ -518,7 +518,7 @@ cost-39
 proposal-or-application-required-39
 dua-required-39
 special-notes-39
-minority-health-social-vulnerability-index-mhsvi
+metabolic-and-bariatric-surgery-accreditation-and-quality-improvement-program-mbsa-qip
 organization-40
 website-40
 description-40
@@ -531,7 +531,7 @@ cost-40
 proposal-or-application-required-40
 dua-required-40
 special-notes-40
-national-adult-tobacco-survey-nats
+minority-health-social-vulnerability-index-mhsvi
 organization-41
 website-41
 description-41
@@ -544,7 +544,7 @@ cost-41
 proposal-or-application-required-41
 dua-required-41
 special-notes-41
-national-ambulatory-medical-care-survey-namcs
+national-adult-tobacco-survey-nats
 organization-42
 website-42
 description-42
@@ -557,7 +557,7 @@ cost-42
 proposal-or-application-required-42
 dua-required-42
 special-notes-42
-national-beneficiary-survey-nbs
+national-ambulatory-medical-care-survey-namcs
 organization-43
 website-43
 description-43
@@ -570,7 +570,7 @@ cost-43
 proposal-or-application-required-43
 dua-required-43
 special-notes-43
-national-cancer-database-ncdb
+national-beneficiary-survey-nbs
 organization-44
 website-44
 description-44
@@ -583,7 +583,7 @@ cost-44
 proposal-or-application-required-44
 dua-required-44
 special-notes-44
-national-crime-victimization-survey-ncvs
+national-cancer-database-ncdb
 organization-45
 website-45
 description-45
@@ -596,7 +596,7 @@ cost-45
 proposal-or-application-required-45
 dua-required-45
 special-notes-45
-national-emissions-inventory-nei
+national-crime-victimization-survey-ncvs
 organization-46
 website-46
 description-46
@@ -609,7 +609,7 @@ cost-46
 proposal-or-application-required-46
 dua-required-46
 special-notes-46
-national-environmental-public-health-tracking-network
+national-emissions-inventory-nei
 organization-47
 website-47
 description-47
@@ -622,7 +622,7 @@ cost-47
 proposal-or-application-required-47
 dua-required-47
 special-notes-47
-national-health-and-aging-trends-study-nhats
+national-environmental-public-health-tracking-network
 organization-48
 website-48
 description-48
@@ -635,7 +635,7 @@ cost-48
 proposal-or-application-required-48
 dua-required-48
 special-notes-48
-national-health-and-nutrition-epidemiological-survey-nhanes
+national-health-and-aging-trends-study-nhats
 organization-49
 website-49
 description-49
@@ -648,7 +648,7 @@ cost-49
 proposal-or-application-required-49
 dua-required-49
 special-notes-49
-national-health-interview-survey-nhis
+national-health-and-nutrition-epidemiological-survey-nhanes
 organization-50
 website-50
 description-50
@@ -661,7 +661,7 @@ cost-50
 proposal-or-application-required-50
 dua-required-50
 special-notes-50
-national-hospital-ambulatory-medical-care-survey-nhamcs
+national-health-interview-survey-nhis
 organization-51
 website-51
 description-51
@@ -674,7 +674,7 @@ cost-51
 proposal-or-application-required-51
 dua-required-51
 special-notes-51
-national-household-travel-survey
+national-hospital-ambulatory-medical-care-survey-nhamcs
 organization-52
 website-52
 description-52
@@ -687,7 +687,7 @@ cost-52
 proposal-or-application-required-52
 dua-required-52
 special-notes-52
-national-immunization-survey-nis-childteen
+national-household-travel-survey
 organization-53
 website-53
 description-53
@@ -700,7 +700,7 @@ cost-53
 proposal-or-application-required-53
 dua-required-53
 special-notes-53
-national-inpatient-sample-nis
+national-immunization-survey-nis-childteen
 organization-54
 website-54
 description-54
@@ -713,7 +713,7 @@ cost-54
 proposal-or-application-required-54
 dua-required-54
 special-notes-54
-national-longitudinal-survey-of-mature-and-young-women
+national-inpatient-sample-nis
 organization-55
 website-55
 description-55
@@ -726,7 +726,7 @@ cost-55
 proposal-or-application-required-55
 dua-required-55
 special-notes-55
-national-longitudinal-survey-of-older-and-young-men
+national-longitudinal-survey-of-mature-and-young-women
 organization-56
 website-56
 description-56
@@ -739,7 +739,7 @@ cost-56
 proposal-or-application-required-56
 dua-required-56
 special-notes-56
-national-longitudinal-survey-of-youth-1979-nlsy79
+national-longitudinal-survey-of-older-and-young-men
 organization-57
 website-57
 description-57
@@ -752,7 +752,7 @@ cost-57
 proposal-or-application-required-57
 dua-required-57
 special-notes-57
-national-longitudinal-survey-of-youth-1979-child-and-young-adult-nlsycya
+national-longitudinal-survey-of-youth-1979-nlsy79
 organization-58
 website-58
 description-58
@@ -765,7 +765,7 @@ cost-58
 proposal-or-application-required-58
 dua-required-58
 special-notes-58
-national-longitudinal-survey-of-youth-1997-nlsy97
+national-longitudinal-survey-of-youth-1979-child-and-young-adult-nlsycya
 organization-59
 website-59
 description-59
@@ -778,7 +778,7 @@ cost-59
 proposal-or-application-required-59
 dua-required-59
 special-notes-59
-national-mental-health-services-survey-n-mhss
+national-longitudinal-survey-of-youth-1997-nlsy97
 organization-60
 website-60
 description-60
@@ -791,7 +791,7 @@ cost-60
 proposal-or-application-required-60
 dua-required-60
 special-notes-60
-national-survey-of-childrens-health-nsch
+national-mental-health-services-survey-n-mhss
 organization-61
 website-61
 description-61
@@ -804,7 +804,7 @@ cost-61
 proposal-or-application-required-61
 dua-required-61
 special-notes-61
-national-survey-of-family-growth-nsfg
+national-survey-of-childrens-health-nsch
 organization-62
 website-62
 description-62
@@ -817,7 +817,7 @@ cost-62
 proposal-or-application-required-62
 dua-required-62
 special-notes-62
-national-survey-of-substance-abuse-treatment-services-n-ssats
+national-survey-of-family-growth-nsfg
 organization-63
 website-63
 description-63
@@ -830,7 +830,7 @@ cost-63
 proposal-or-application-required-63
 dua-required-63
 special-notes-63
-national-survey-on-drug-use-and-health-nsduh
+national-survey-of-substance-abuse-treatment-services-n-ssats
 organization-64
 website-64
 description-64
@@ -843,7 +843,7 @@ cost-64
 proposal-or-application-required-64
 dua-required-64
 special-notes-64
-national-violent-death-reporting-system-nvdrs
+national-survey-on-drug-use-and-health-nsduh
 organization-65
 website-65
 description-65
@@ -856,7 +856,7 @@ cost-65
 proposal-or-application-required-65
 dua-required-65
 special-notes-65
-national-vital-statistics
+national-violent-death-reporting-system-nvdrs
 organization-66
 website-66
 description-66
@@ -869,7 +869,7 @@ cost-66
 proposal-or-application-required-66
 dua-required-66
 special-notes-66
-national-youth-tobacco-survey-nyts
+national-vital-statistics
 organization-67
 website-67
 description-67
@@ -882,7 +882,7 @@ cost-67
 proposal-or-application-required-67
 dua-required-67
 special-notes-67
-nationwide-ambulatory-surgery-sample-nass
+national-youth-tobacco-survey-nyts
 organization-68
 website-68
 description-68
@@ -895,7 +895,7 @@ cost-68
 proposal-or-application-required-68
 dua-required-68
 special-notes-68
-nationwide-emergency-department-sample-neds
+nationwide-ambulatory-surgery-sample-nass
 organization-69
 website-69
 description-69
@@ -908,7 +908,7 @@ cost-69
 proposal-or-application-required-69
 dua-required-69
 special-notes-69
-nationwide-readmissions-sample-nrd
+nationwide-emergency-department-sample-neds
 organization-70
 website-70
 description-70
@@ -921,7 +921,7 @@ cost-70
 proposal-or-application-required-70
 dua-required-70
 special-notes-70
-panel-study-of-income-dynamics-psid
+nationwide-readmissions-sample-nrd
 organization-71
 website-71
 description-71
@@ -934,7 +934,7 @@ cost-71
 proposal-or-application-required-71
 dua-required-71
 special-notes-71
-places-local-data-for-better-health
+panel-study-of-income-dynamics-psid
 organization-72
 website-72
 description-72
@@ -947,7 +947,7 @@ cost-72
 proposal-or-application-required-72
 dua-required-72
 special-notes-72
-pregnancy-risk-assessment-monitoring-system-prams
+places-local-data-for-better-health
 organization-73
 website-73
 description-73
@@ -960,7 +960,7 @@ cost-73
 proposal-or-application-required-73
 dua-required-73
 special-notes-73
-rural-urban-continuum-codes
+pregnancy-risk-assessment-monitoring-system-prams
 organization-74
 website-74
 description-74
@@ -973,7 +973,7 @@ cost-74
 proposal-or-application-required-74
 dua-required-74
 special-notes-74
-school-health-policies-and-practices-study-shpps
+rural-urban-continuum-codes
 organization-75
 website-75
 description-75
@@ -986,7 +986,7 @@ cost-75
 proposal-or-application-required-75
 dua-required-75
 special-notes-75
-scientific-registry-of-transplant-recipients-srtr
+school-health-policies-and-practices-study-shpps
 organization-76
 website-76
 description-76
@@ -999,7 +999,7 @@ cost-76
 proposal-or-application-required-76
 dua-required-76
 special-notes-76
-selected-metropolitanmicropolitan-area-risk-trends-smart
+scientific-registry-of-transplant-recipients-srtr
 organization-77
 website-77
 description-77
@@ -1012,7 +1012,7 @@ cost-77
 proposal-or-application-required-77
 dua-required-77
 special-notes-77
-small-area-income-and-poverty-estimates-saipe
+selected-metropolitanmicropolitan-area-risk-trends-smart
 organization-78
 website-78
 description-78
@@ -1025,7 +1025,7 @@ cost-78
 proposal-or-application-required-78
 dua-required-78
 special-notes-78
-social-deprivation-index
+small-area-income-and-poverty-estimates-saipe
 organization-79
 website-79
 description-79
@@ -1038,7 +1038,7 @@ cost-79
 proposal-or-application-required-79
 dua-required-79
 special-notes-79
-social-determinants-of-health-database
+social-deprivation-index
 organization-80
 website-80
 description-80
@@ -1051,7 +1051,7 @@ cost-80
 proposal-or-application-required-80
 dua-required-80
 special-notes-80
-social-vulnerability-index-svi
+social-determinants-of-health-database
 organization-81
 website-81
 description-81
@@ -1064,7 +1064,7 @@ cost-81
 proposal-or-application-required-81
 dua-required-81
 special-notes-81
-state-ambulatory-surgery-and-services-databases-sasd
+social-vulnerability-index-svi
 organization-82
 website-82
 description-82
@@ -1077,7 +1077,7 @@ cost-82
 proposal-or-application-required-82
 dua-required-82
 special-notes-82
-state-emergency-department-databases-sedd
+state-ambulatory-surgery-and-services-databases-sasd
 organization-83
 website-83
 description-83
@@ -1090,7 +1090,7 @@ cost-83
 proposal-or-application-required-83
 dua-required-83
 special-notes-83
-state-inpatient-databases-sid
+state-emergency-department-databases-sedd
 organization-84
 website-84
 description-84
@@ -1103,7 +1103,7 @@ cost-84
 proposal-or-application-required-84
 dua-required-84
 special-notes-84
-state-of-ohio-public-health-data
+state-inpatient-databases-sid
 organization-85
 website-85
 description-85
@@ -1116,7 +1116,7 @@ cost-85
 proposal-or-application-required-85
 dua-required-85
 special-notes-85
-surveillance-epidemiology-and-end-results-seer
+state-of-ohio-public-health-data
 organization-86
 website-86
 description-86
@@ -1129,7 +1129,7 @@ cost-86
 proposal-or-application-required-86
 dua-required-86
 special-notes-86
-survey-of-income-and-program-participation-sipp
+surveillance-epidemiology-and-end-results-seer
 organization-87
 website-87
 description-87
@@ -1142,7 +1142,7 @@ cost-87
 proposal-or-application-required-87
 dua-required-87
 special-notes-87
-toxics-release-inventory-tri-data
+survey-of-income-and-program-participation-sipp
 organization-88
 website-88
 description-88
@@ -1155,7 +1155,7 @@ cost-88
 proposal-or-application-required-88
 dua-required-88
 special-notes-88
-treatment-episode-data-sets-admissions-teds-a-and-discharges-teds-d
+toxics-release-inventory-tri-data
 organization-89
 website-89
 description-89
@@ -1168,7 +1168,7 @@ cost-89
 proposal-or-application-required-89
 dua-required-89
 special-notes-89
-united-network-for-organ-sharing-unos
+treatment-episode-data-sets-admissions-teds-a-and-discharges-teds-d
 organization-90
 website-90
 description-90
@@ -1181,7 +1181,7 @@ cost-90
 proposal-or-application-required-90
 dua-required-90
 special-notes-90
-united-states-mortality-database-usmdb
+united-network-for-organ-sharing-unos
 organization-91
 website-91
 description-91
@@ -1194,7 +1194,7 @@ cost-91
 proposal-or-application-required-91
 dua-required-91
 special-notes-91
-united-states-renal-data-system-usrds
+united-states-mortality-database-usmdb
 organization-92
 website-92
 description-92
@@ -1207,7 +1207,7 @@ cost-92
 proposal-or-application-required-92
 dua-required-92
 special-notes-92
-us-census-data
+united-states-renal-data-system-usrds
 organization-93
 website-93
 description-93
@@ -1220,7 +1220,7 @@ cost-93
 proposal-or-application-required-93
 dua-required-93
 special-notes-93
-us-religion-census-religious-congregations-and-membership-study
+us-census-data
 organization-94
 website-94
 description-94
@@ -1233,7 +1233,7 @@ cost-94
 proposal-or-application-required-94
 dua-required-94
 special-notes-94
-us-small-area-life-expectancy-estimates-project-usaleep
+us-religion-census-religious-congregations-and-membership-study
 organization-95
 website-95
 description-95
@@ -1246,7 +1246,7 @@ cost-95
 proposal-or-application-required-95
 dua-required-95
 special-notes-95
-walkability-index
+us-small-area-life-expectancy-estimates-project-usaleep
 organization-96
 website-96
 description-96
@@ -1259,7 +1259,7 @@ cost-96
 proposal-or-application-required-96
 dua-required-96
 special-notes-96
-youth-risk-behavior-surveillance-system-yrbss
+walkability-index
 organization-97
 website-97
 description-97
@@ -1272,7 +1272,7 @@ cost-97
 proposal-or-application-required-97
 dua-required-97
 special-notes-97
-cities-local-data-for-better-health
+youth-risk-behavior-surveillance-system-yrbss
 organization-98
 website-98
 description-98
@@ -1285,3 +1285,16 @@ cost-98
 proposal-or-application-required-98
 dua-required-98
 special-notes-98
+cities-local-data-for-better-health
+organization-99
+website-99
+description-99
+vintagerelease-frequency-99
+observational-unit-99
+collection-methodology-99
+available-at-99
+user-guidedata-dictionary-99
+cost-99
+proposal-or-application-required-99
+dua-required-99
+special-notes-99

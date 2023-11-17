@@ -25,7 +25,7 @@ for (i in 1:length(list$Database)) {
     
     ## Open connection to file
     rmdFileConn <- file(paste0(
-        formatC(i, 1, format="d", flag="0"),
+        formatC(i, width=3, format="d", flag="0"),
         "-",
         tolower(list$Acronym[i]), 
         ".Rmd"))
@@ -37,3 +37,4 @@ for (i in 1:length(list$Database)) {
     close(rmdFileConn)
     
 }
+

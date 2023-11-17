@@ -32,7 +32,7 @@ US, City or Census Tract-level
 https://chronicdata.cdc.gov/browse?category=500+Cities+%26+Places
 
 ## User Guide/Data Dictionary
-https://chronicdata.cdc.gov/500-Cities-Places/500-Cities-Local-Data-for-Better- Health-2019-relea/6vp6-wxuq
+https://chronicdata.cdc.gov/500-Cities-Places/500-Cities-Local-Data-for-Better-Health-2019-relea/6vp6-wxuq
 
 ## Cost
 Free for download
